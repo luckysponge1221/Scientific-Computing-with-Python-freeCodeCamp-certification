@@ -2,15 +2,15 @@
 This repository consists of 5 different Python projects submitted for Scientific Computing with Python certification. The Scientific Computing with Python curriculum includes hands-on skills training to analyze and manipulate data using Python. The course introduces key concepts such as data structures, algorithm, Object Oriented Programming, and tools for complex calculation.
 
 The 5 projects each are submitted as an individual file, mainly consisting function and class definitions outside the main script for testing. 
-1. [Build an Arithmatic Formatter Project](https://github.com/luckysponge1221/Scientific-Computing-with-Python-freeCodeCamp-certification/edit/main/README.md#arithmatic-formatter)
-2. [Build a Time Calculator Project](https://github.com/luckysponge1221/Scientific-Computing-with-Python-freeCodeCamp-certification/edit/main/README.md#time-calculator)
-3. [Build a Budget App Project](https://github.com/luckysponge1221/Scientific-Computing-with-Python-freeCodeCamp-certification/edit/main/README.md#budget-app)
-4. [Build a Polygon Area Calculator Project](https://github.com/luckysponge1221/Scientific-Computing-with-Python-freeCodeCamp-certification/edit/main/README.md#polygon-area-calculator)
-5. [Build a Probability Calculator Project](https://github.com/luckysponge1221/Scientific-Computing-with-Python-freeCodeCamp-certification/edit/main/README.md#probability-calculator)
+1. [Build an Arithmatic Formatter Project](#arithmetic-formatter)
+2. [Build a Time Calculator Project](#time-calculator)
+3. [Build a Budget App Project](#budget-app)
+4. [Build a Polygon Area Calculator Project](#polygon-area-calculator)
+5. [Build a Probability Calculator Project](#probability-calculator)
 
 _Certificate_ [_link_](https://www.freecodecamp.org/certification/lucky_sponge/scientific-computing-with-python-v7)
 
-## Arithmatic Formatter
+## Arithmetic Formatter
 Arithmatic formatter function receives simple addition or subtraction problems as a string and formats them into the traditional add/subtract calculation format (first line as first operand, second line as second operand, third line consisting a horizontal line and operator, and fourth line shows the final product). 
 
 The project description and requirements are as follows:
