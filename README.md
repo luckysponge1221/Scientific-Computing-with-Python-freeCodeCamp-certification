@@ -1,7 +1,7 @@
 # Scientific Computing with Python freeCodeCamp Certification Projects
 This repository consists of 5 different Python projects submitted for Scientific Computing with Python certification. The Scientific Computing with Python curriculum includes hands-on skills training to analyze and manipulate data using Python. The course introduces key concepts such as data structures, algorithm, Object Oriented Programming, and tools for complex calculation.
 
-The 5 projects each are submitted as an individual file, mainly consisting function and class definitions outside the main script for testing. 
+Each project is submitted as an individual file, mainly consisting function and class definitions outside the main script for testing. 
 1. [Build an Arithmatic Formatter Project](#arithmetic-formatter)
 2. [Build a Time Calculator Project](#time-calculator)
 3. [Build a Budget App Project](#budget-app)
